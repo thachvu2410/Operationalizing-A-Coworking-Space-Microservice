@@ -40,3 +40,4 @@ This project deploys a Business Analysts API as a microservice to Kubernetes usi
 ## Conclusion
 
 Following these steps ensures the automatic deployment and scalability of the microservice on Kubernetes using AWS services.
+ 
